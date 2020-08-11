@@ -6,37 +6,7 @@
   frontend developer.
 </h1>
 
-
-### Some words about me
-
-<p>
-    ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
-    <br>
-    🎯 I'm focused on  ̶J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶ <b>TypeScript</b> stack (React, NodeJS) and I'm a <b>JamStack</b> enthusiast ⚡️.
-    <br>
-    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
-    <br>
-    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
-    <br>
-    ✍️ I'm French guy 🇫🇷, I write code in English 🇬🇧, I live in Spain 🇪🇸 and I try to speak them correctly 😅
-    <br>
-    🍺 Beside programming, I read and enjoy to play sports like Mountain Bike or Calisthenics.
-</p>
-
-
-<h3>
-  📫 You can also check out my <b>latest works</b> or <b>contact me</b> on
-  <br> 
-  <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
-  <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
-</h3>
-
-### ― See ya! 👋
-
-<br>
-
-## 🛠 Technologies & tools
-
+<!--## 🛠 Technologies & tools-->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
@@ -59,11 +29,37 @@
 
 <br>
 
-## &#x1f4c8; GitHub Stats
+### Some words about me
 
+<p>
+    ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
+    <br>
+    🎯 I'm focused on  ̶J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶ <b>TypeScript</b> stack (React, NodeJS) and I'm a <b>JamStack</b> enthusiast ⚡️.
+    <br>
+    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
+    <br>
+    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
+    <br>
+    ✍️ I'm French guy 🇫🇷, I write code in English 🇬🇧, I live in Spain 🇪🇸 and I try to speak them correctly 😅
+    <br>
+    🍺 Beside programming, I read and enjoy to play sports like Mountain Bike or Calisthenics.
+</p>
+
+<h3>
+  📫 You can also check out my <b>latest works</b> or <b>contact me</b> on
+  <br> 
+  <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
+  <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
+</h3>
+
+### ― See ya! 👋
+
+<br>
+
+<!-- ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Junscuzzy/Junscuzzy">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junscuzzy&hide=php&layout=compact&width=50" alt="Most Used Languages" />
 </a>
 <a href="https://github.com/Junscuzzy/Junscuzzy">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=junscuzzy&hide=prs,issues&count_private=true&show_icons=true" alt="Julien's GitHub Stats" />
-</a>
+</a>-->
