@@ -27,8 +27,6 @@
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue)
 
-<br>
-
 ### Some words about me
 
 <p>
