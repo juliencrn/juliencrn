@@ -32,13 +32,11 @@
 <p>
     ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
     <br>
-    🎯 I'm focused on  ̶J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶ <b>TypeScript</b> stack (React, NodeJS) and I'm a <b>JamStack</b> enthusiast ⚡️.
+    🎯 I'm focused on <span style="text-decoration: line-through;">Javascript</span> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
     🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
     <br>
     👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
-    <br>
-    ✍️ I'm French guy 🇫🇷, I write code in English 🇬🇧, I live in Spain 🇪🇸 and I try to speak them correctly 😅
     <br>
     🍺 Beside programming, I read and enjoy to play sports like Mountain Bike or Calisthenics.
 </p>
