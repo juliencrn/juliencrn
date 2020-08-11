@@ -1,5 +1,5 @@
 
-![Hi](./hi.gif)
+![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/hi.gif)
 <h1>
   Hi there ― <br> 
   my name is Julien, <br> 
