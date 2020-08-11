@@ -7,16 +7,14 @@
 </h1>
 
 
-
-
-## Some words about me
+### Some words about me
 
 <p>
     ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
     <br>
     🎯 I'm focused on  ̶J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶ <b>TypeScript</b> stack (React, NodeJS) and I'm a <b>JamStack</b> enthusiast ⚡️.
     <br>
-    🌱 To improve myself as web developer, I'm currently learning backend development and the TDD way. Next, I'd like to learn WebGL and React Native too.
+    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
     <br>
     👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
@@ -64,11 +62,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Junscuzzy/Junscuzzy">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junscuzzy&hide=php&layout=compact" alt="Most Used Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junscuzzy&hide=php&layout=compact&width=50" alt="Most Used Languages" />
 </a>
 <a href="https://github.com/Junscuzzy/Junscuzzy">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=junscuzzy&hide=prs,issues&count_private=true&show_icons=true" alt="Julien's GitHub Stats" />
 </a>
-
-
-
