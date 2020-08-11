@@ -32,7 +32,7 @@
 <p>
     ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
     <br>
-    🎯 I'm focused on <span style="text-decoration: line-through;">Javascript</span> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
+    🎯 I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
     🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
     <br>
