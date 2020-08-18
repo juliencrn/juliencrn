@@ -1,5 +1,5 @@
 
-![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/hi.gif)
+![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)
 <h1>
   Hi there ― <br> 
   my name is Julien, <br> 
@@ -7,6 +7,7 @@
 </h1>
 
 <!--## 🛠 Technologies & tools-->
+<!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
@@ -26,6 +27,52 @@
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue)
+-->
+
+<div>
+  <img align="left" alt="Ubuntu" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/ubuntu.png"/>
+  <img align="left" alt="Visual Studio Code" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/visual-studio-code.png"/>
+  
+  <img align="left" alt="html" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/html.png"/>
+  <img align="left" alt="css" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/css.png"/>
+  <img align="left" alt="sass" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/sass.png"/>
+  <img align="left" alt="javascript" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/javascript.png"/>
+  <img align="left" alt="typescript" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/typescript.png"/>
+  <img align="left" alt="react" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/react.png"/>
+  <img align="left" alt="redux" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/redux.png"/>
+  <img align="left" alt="@material-ui" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mui.png"/>
+  <img align="left" alt="gatsby" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/gatsby.png"/>
+  <img align="left" alt="jest" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/jest.png"/>
+
+  <img align="left" alt="NodeJS" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/nodejs.png"/>
+  <img align="left" alt="mysql" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mysql.png"/>
+  <img align="left" alt="mongodb" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mongodb.png"/>
+  <img align="left" alt="git" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/git.png"/>
+  <img align="left" alt="github" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/github.png"/>
+  <img align="left" alt="netlify" width="26px" style="max-width: 100%;" 
+  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/netlify.svg"/>
+
+
+</div>
+
+<br/>
 
 ### Some words about me
 
