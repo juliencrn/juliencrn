@@ -71,7 +71,6 @@
 </div>
 
 <br/>
-<br/>
 
 ### Some words about me
 
