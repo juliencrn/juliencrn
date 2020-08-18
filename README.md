@@ -30,46 +30,78 @@
 -->
 
 <div>
-  <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/ubuntu.png"/>
-  <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/visual-studio-code.png"/>
-  
-  <img align="left" title="html" alt="html" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/html.png"/>
-  <img align="left" title="css" alt="css" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/css.png"/>
-  <img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/sass.png"/>
-  <img align="left" title="javascript" alt="javascript" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/javascript.png"/>
-  <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/typescript.png"/>
-  <img align="left" title="react" alt="react" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/react.png"/>
-  <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/redux.png"/>
-  <img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mui.png"/>
-  <img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/gatsby.png"/>
-  <img align="left" title="jest" alt="jest" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/jest.png"/>
-
-  <img align="left" title="NodeJS" alt="NodeJS" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/nodejs.png"/>
-  <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mysql.png"/>
-  <img align="left" title="mongodb" alt="mongodb" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mongodb.png"/>
-  <img align="left" title="git" alt="git" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/git.png"/>
-  <img align="left" title="github" alt="github" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/github.png"/>
-  <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%;" 
-  src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/netlify.svg"/>
-
-
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/ubuntu.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/visual-studio-code.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="html" alt="html" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/html.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="css" alt="css" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/css.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/sass.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="javascript" alt="javascript" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/javascript.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/typescript.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="react" alt="react" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/react.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/redux.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mui.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/gatsby.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="jest" alt="jest" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/jest.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="NodeJS" alt="NodeJS" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/nodejs.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mysql.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="mongodb" alt="mongodb" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mongodb.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="git" alt="git" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/git.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="github" alt="github" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/github.png"/>
+  </a>
+  <a rel="nofollow" href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%;" 
+    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/netlify.svg"/>
+  </a>
 </div>
 
 <br/>
