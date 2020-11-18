@@ -81,7 +81,7 @@
     <br>
     🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills, try React Native and play with webGL.
     <br>
-    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things! (See: <a href="https://usehooks-typescript.com/"><code>usehooks( )</code></a>)
+    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
     🍺 Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
 </p>
