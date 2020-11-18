@@ -75,15 +75,15 @@
 ### Some words about me
 
 <p>
-    ☕️ I'm currently working as Freelancer Frontend developer via <a href="https://www.malt.fr">@Malt</a>.
+    ☕️ I'm currently working as Freelancer Frontend developer at <a href="http://chefclub.tv">@Chefclub</a> via <a href="https://www.malt.fr">@Malt</a>.
     <br>
     🎯 I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
-    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills and try React Native too.
+    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills, try React Native and play with webGL.
     <br>
-    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
+    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things! (See: <a href="https://usehooks-typescript.com/"><code>usehooks( )</code></a>)
     <br>
-    🍺 Beside programming, I read and enjoy to play sports like Mountain Bike or Calisthenics.
+    🍺 Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
 </p>
 
 <h3>
