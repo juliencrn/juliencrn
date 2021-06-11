@@ -79,7 +79,7 @@
     <br>
     🎯 I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
-    🌱 To improve myself as web developer, I'm currently learning automatized testing. Next, I'd like to consolidate my backend skills, try React Native and play with webGL.
+    🌱 To improve myself, I'm currently learning Rust programming language, it looks like amazing.
     <br>
     👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
