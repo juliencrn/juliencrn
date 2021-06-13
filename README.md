@@ -75,19 +75,19 @@
 ### Some words about me
 
 <p>
-    ☕️ I'm currently working as Freelancer Frontend developer at <a href="http://chefclub.tv">@Chefclub</a> via <a href="https://www.malt.fr">@Malt</a>.
+    ☕️  I'm currently working as Freelancer Frontend developer at <a href="http://chefclub.tv">@Chefclub</a> via <a href="https://www.malt.fr">@Malt</a>.
     <br>
-    🎯 I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
+    🎯  I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
-    🌱 To improve myself, I'm currently learning Rust programming language, it looks like amazing.
+    🌱  To improve myself, I am learning the Rust programming language and consolidating my back-end skills. The eco-system between Typescript and Rust, especially via Deno and WebAssembly look like amazing!
     <br>
-    👨‍💻 Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
+    👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
-    🍺 Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
+    🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
 </p>
 
 <h3>
-  📫 You can also check out my <b>latest works</b> or <b>contact me</b> on
+  📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
   <br> 
   <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
   <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
