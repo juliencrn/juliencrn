@@ -1,10 +1,13 @@
 
-![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)
+<!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
 <h1>
+  👋<br>
   Hi there ― <br> 
   my name is Julien, <br> 
-  frontend developer.
+  passionate developer.
 </h1>
+
+
 
 <!--## 🛠 Technologies & tools-->
 <!--
@@ -29,61 +32,84 @@
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue)
 -->
 
-<div>
-    <img align="left" title="" alt="Ubuntu" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/ubuntu.png"/>
+<p align="left">
+    <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/ubuntu.png"/>
     <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/visual-studio-code.png"/>
+    src="./assets/visual-studio-code.png"/>
     <img align="left" title="html" alt="html" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/html.png"/>
+    src="./assets/html.png"/>
     <img align="left" title="css" alt="css" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/css.png"/>
+    src="./assets/css.png"/>
     <img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/sass.png"/>
+    src="./assets/sass.png"/>
     <img align="left" title="javascript" alt="javascript" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/javascript.png"/>
+    src="./assets/javascript.png"/>
     <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/typescript.png"/>
+    src="./assets/typescript.png"/>
     <img align="left" title="react" alt="react" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/react.png"/>
+    src="./assets/react.png"/>
     <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/redux.png"/>
+    src="./assets/redux.png"/>
     <img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mui.png"/>
+    src="./assets/mui.png"/>
     <img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/gatsby.png"/>
+    src="./assets/gatsby.png"/>
     <img align="left" title="jest" alt="jest" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/jest.png"/>
+    src="./assets/jest.png"/>
     <img align="left" title="NodeJS" alt="NodeJS" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/nodejs.png"/>
+    src="./assets/nodejs.png"/>
     <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mysql.png"/>
+    src="./assets/mysql.png"/>
     <img align="left" title="mongodb" alt="mongodb" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/mongodb.png"/>
+    src="./assets/mongodb.png"/>
     <img align="left" title="git" alt="git" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/git.png"/>
+    src="./assets/git.png"/>
     <img align="left" title="github" alt="github" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/github.png"/>
+    src="./assets/github.png"/>
     <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/netlify.svg"/>
-
-  <br/>
-</div>
+    src="./assets/netlify.svg"/>
+    <img align="left" title="D3" alt="D3" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/d3.svg"/>
+    <img align="left" title="firebase" alt="firebase" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/firebase.svg"/>
+    <img align="left" title="graphql" alt="graphql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/graphql.svg"/>
+    <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/nextjs.svg"/>
+    <img align="left" title="puppeteer" alt="puppeteer" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/puppeteer.svg"/>
+    <img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/rust.svg"/>
+    <img align="left" title="wordpress" alt="wordpress" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/wordpress.svg"/>
+</p>
 
 <br/>
 
 ### Some words about me
 
 <p>
+    🎯  I'm currently focused on learning Rust and Solidity.
+    <br>
+    ☕️‍ I ~~am~~ was front-end developer focused on ~~Javascript~~ TypeScript stack (React, NodeJS).
+    <br>
+    👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
+    <br>
+    🌱  To improve myself, I am also learning English 🇬🇧, Spanish 🇪🇸 and algorithms 📐.
+    <br>
+    🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
+    <br>
+    ✨ Fun fact, I'm a huge fan of Linux (aka `r/unixporn`), but I've just switched to M1, and it's cool, too 😘.
+    <!--
+    💬 Ask me about react, redux, nodejs, web scrapping, typescript
+    <br>
     ☕️  I'm currently working as Freelancer Frontend developer at <a href="http://chefclub.tv">@Chefclub</a> via <a href="https://www.malt.fr">@Malt</a>.
     <br>
     🎯  I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
     <br>
     🌱  To improve myself, I am learning the Rust programming language and consolidating my back-end skills. The eco-system between Typescript and Rust, especially via Deno and WebAssembly look like amazing!
-    <br>
-    👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
-    <br>
-    🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
+    -->
 </p>
 
 <h3>
