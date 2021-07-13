@@ -8,7 +8,6 @@
 </h1>
 
 
-
 <!--## 🛠 Technologies & tools-->
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
@@ -70,19 +69,19 @@
     <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/netlify.svg"/>
     <img align="left" title="D3" alt="D3" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/d3.svg"/>
+    src="./assets/d3.png"/>
     <img align="left" title="firebase" alt="firebase" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/firebase.svg"/>
+    src="./assets/firebase.png"/>
     <img align="left" title="graphql" alt="graphql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/graphql.svg"/>
+    src="./assets/graphql.png"/>
     <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/nextjs.svg"/>
+    src="./assets/nextjs.png"/>
     <img align="left" title="puppeteer" alt="puppeteer" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/puppeteer.svg"/>
+    src="./assets/puppeteer.png"/>
     <img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/rust.svg"/>
+    src="./assets/rust.png"/>
     <img align="left" title="wordpress" alt="wordpress" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/wordpress.svg"/>
+    src="./assets/wordpress.png"/>
 </p>
 
 <br/>
@@ -92,7 +91,7 @@
 <p>
     🎯  I'm currently focused on learning Rust and Solidity.
     <br>
-    ☕️‍ I ~~am~~ was front-end developer focused on ~~Javascript~~ TypeScript stack (React, NodeJS).
+    ☕️‍ I ~~am~~ was front-end developer focused on ~~Javascript~~ TypeScript stack (React, NodeJS). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
     👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
