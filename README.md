@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue)
 -->
 
+<div>
 <p align="left">
     <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/ubuntu.png"/>
@@ -76,9 +77,10 @@
     src="./assets/graphql.png"/>
     <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/nextjs.png"/>
-    <img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/rust.png"/>
+    <!--<img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/rust.png"/>-->
 </p>
+</div>
 
 <br/>
 
