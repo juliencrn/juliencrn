@@ -96,7 +96,7 @@
     <br>
     🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
     <br>
-    ✨ Fun fact, I'm a huge fan of Linux (aka `r/unixporn`), but I've just switched to M1, and it's cool, too 😘.
+    ✨ Fun fact, I'm a huge fan of Linux (aka <a href="https://www.reddit.com/r/unixporn/">r/unixporn</a>), but I've just switched to M1, and it's cool, too 😘.
     <!--
     💬 Ask me about react, redux, nodejs, web scrapping, typescript
     <br>
