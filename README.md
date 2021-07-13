@@ -55,10 +55,18 @@
     src="./assets/mui.png"/>
     <img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/gatsby.png"/>
+    <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/nextjs.png"/>
+    <img align="left" title="D3" alt="D3" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/d3.png"/>
     <img align="left" title="jest" alt="jest" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/jest.png"/>
     <img align="left" title="NodeJS" alt="NodeJS" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/nodejs.png"/>
+    <img align="left" title="firebase" alt="firebase" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/firebase.png"/>
+    <img align="left" title="graphql" alt="graphql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/graphql.png"/>
     <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/mysql.png"/>
     <img align="left" title="mongodb" alt="mongodb" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -69,14 +77,6 @@
     src="./assets/github.png"/>
     <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/netlify.svg"/>
-    <img align="left" title="D3" alt="D3" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/d3.png"/>
-    <img align="left" title="firebase" alt="firebase" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/firebase.png"/>
-    <img align="left" title="graphql" alt="graphql" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/graphql.png"/>
-    <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/nextjs.png"/>
     <!--<img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/rust.png"/>-->
 </p>
