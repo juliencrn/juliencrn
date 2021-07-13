@@ -89,7 +89,7 @@
 <p>
     🎯  I'm currently focused on learning Rust and Solidity.
     <br>
-    ☕️‍ I ~~am~~ was front-end developer focused on ~~Javascript~~ TypeScript stack (React, NodeJS). Last <a href="http://chefclub.tv">@Chefclub</a>.
+    ☕️‍ I <del>am</del> was front-end developer focused on <del>Javascript</del> TypeScript stack (React, NodeJS). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
     👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
     <br>
