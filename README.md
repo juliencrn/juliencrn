@@ -32,7 +32,6 @@
 -->
 
 <div>
-<p align="left">
     <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/ubuntu.png"/>
     <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -79,7 +78,7 @@
     src="./assets/netlify.svg"/>
     <!--<img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/rust.png"/>-->
-</p>
+    <br/>
 </div>
 
 <br/>
