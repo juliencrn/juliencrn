@@ -76,12 +76,8 @@
     src="./assets/graphql.png"/>
     <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/nextjs.png"/>
-    <img align="left" title="puppeteer" alt="puppeteer" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/puppeteer.png"/>
     <img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/rust.png"/>
-    <img align="left" title="wordpress" alt="wordpress" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/wordpress.png"/>
 </p>
 
 <br/>
