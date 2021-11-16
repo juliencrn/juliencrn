@@ -1,7 +1,7 @@
 
 <!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
 <h1>
-  👋<br>
+ ✌<br>
   Hi there ― <br> 
   my name is Julien, <br> 
   passionate developer.
@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Cloud-OVH-informational?style=flat&logo=ovh&logoColor=white&color=blue)
 -->
 
-<div>
+<!-- <div>
     <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/ubuntu.png"/>
     <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -76,44 +76,41 @@
     src="./assets/github.png"/>
     <img align="left" title="netlify" alt="netlify" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/netlify.svg"/>
-    <!--<img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/rust.png"/>-->
+    <img align="left" title="rust" alt="rust" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/rust.png"/>
     <br/>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 ### Some words about me
 
 <p>
-    🎯  I'm currently focused on learning Rust and Solidity.
+    🎯  I'm currently full-time dive into the blockchain & decentralized world, these possibilities seem absolutely incredible! 🤩
     <br>
-    ☕️‍ I <del>am</del> was front-end developer focused on <del>Javascript</del> TypeScript stack (React, NodeJS). Last <a href="http://chefclub.tv">@Chefclub</a>.
+    ☕️‍ When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
-    👨‍💻  Between freelance missions, I love working on different side-projects, to learn, for fun, to build things!
-    <br>
-    🌱  To improve myself, I am also learning English 🇬🇧, Spanish 🇪🇸 and algorithms 📐.
+    🌱  Moreover blockchain learning journey, I'm also felt in love with Rust and follow the Rust-Typescript flirt (Deno, wasm, next-gen. tooling).
     <br>
     🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
     <br>
     ✨ Fun fact, I'm a huge fan of Linux (aka <a href="https://www.reddit.com/r/unixporn/">r/unixporn</a>), but I've just switched to M1, and it's cool, too 😘.
-    <!--
-    💬 Ask me about react, redux, nodejs, web scrapping, typescript
-    <br>
-    ☕️  I'm currently working as Freelancer Frontend developer at <a href="http://chefclub.tv">@Chefclub</a> via <a href="https://www.malt.fr">@Malt</a>.
-    <br>
-    🎯  I'm focused on <del>Javascript</del> TypeScript stack (React, NodeJS) and I'm a JamStack enthusiast ⚡️.
-    <br>
-    🌱  To improve myself, I am learning the Rust programming language and consolidating my back-end skills. The eco-system between Typescript and Rust, especially via Deno and WebAssembly look like amazing!
-    -->
 </p>
 
-<h3>
+### Some technologies I like working with
+
+- Frontend: React, Gastby, Svelte, Tailwind, (next wasm, next@12).
+- Backend: Typescript, Node, express, Nest.js, Mongo (next Rust, Deno).
+- Blockchain: Solidity, web3, Truffle, (next ipfs & Solana).
+
+Contact me on [Keybase](https://keybase.io/juliencrn) or [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷 🇬🇧 🇪🇸 
+
+<!-- <h3>
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
   <br> 
   <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
   <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
-</h3>
+</h3> -->
 
 ### ― See ya! 👋
 
