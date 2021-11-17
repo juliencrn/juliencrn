@@ -93,8 +93,6 @@
     <🌱 /> I'm also felt in love with Rust and follow the Rust-Typescript flirt (Deno, wasm, next-gen. tools).
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like mountain bike or calisthenics.
-    <br>
-    <✨ /> Fun fact, I'm a huge fan of Linux (aka <a href="https://www.reddit.com/r/unixporn/">r/unixporn</a>), but I've just switched to M1, and it's cool, too 😘.
 </p>
 
 ### Some technologies I like working with
