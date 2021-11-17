@@ -86,24 +86,29 @@
 ### Some words about me
 
 <p>
-    🎯  I'm currently full-time dive into the blockchain & decentralized world, these possibilities seem absolutely incredible! 🤩
+    <🎯 />  I'm currently full-time dive into the blockchain & decentralized world, these possibilities seem absolutely incredible! 🤩
     <br>
-    ☕️‍ When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
+    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
-    🌱  Moreover blockchain learning journey, I'm also felt in love with Rust and follow the Rust-Typescript flirt (Deno, wasm, next-gen. tooling).
+    <🌱 /> I'm also felt in love with Rust and follow the Rust-Typescript flirt (Deno, wasm, next-gen. tools).
     <br>
-    🍺  Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like Mountain Bike or Calisthenics.
+    <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like mountain bike or calisthenics.
     <br>
-    ✨ Fun fact, I'm a huge fan of Linux (aka <a href="https://www.reddit.com/r/unixporn/">r/unixporn</a>), but I've just switched to M1, and it's cool, too 😘.
+    <✨ /> Fun fact, I'm a huge fan of Linux (aka <a href="https://www.reddit.com/r/unixporn/">r/unixporn</a>), but I've just switched to M1, and it's cool, too 😘.
 </p>
 
 ### Some technologies I like working with
 
-- Frontend: React, Gastby, Svelte, Tailwind, (next wasm, next@12).
-- Backend: Typescript, Node, express, Nest.js, Mongo (next Rust, Deno).
-- Blockchain: Solidity, web3, Truffle, (next ipfs & Solana).
+```json
+{
+  "Frontend": ["React", "Gastby", "Svelte", "Tailwind", "React-native@alpha"],
+  "Backend": ["Typescript", "Node", "express", "Nest.js", "Mongo", "Rust@alpha"],
+  "Blockchain": ["Solidity", "web3", "Truffle", "ipfs@alpha"]
+}
+```
 
-Contact me on [Keybase](https://keybase.io/juliencrn) or [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷 🇬🇧 🇪🇸 
+
+#### Contact me on [Keybase](https://keybase.io/juliencrn) or [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷  🇬🇧  🇪🇸 .
 
 <!-- <h3>
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
