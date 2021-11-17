@@ -90,7 +90,7 @@
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
-    <🌱 /> I'm also felt in love with Rust and follow the Rust-Typescript flirt (Deno, wasm, next-gen. tools).
+    <🌱 /> I'm also learning Rust and following the Rust-Typescript flirt (Deno, wasm, next-gen. tools).
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like mountain bike or calisthenics.
 </p>
