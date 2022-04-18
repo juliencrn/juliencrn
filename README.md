@@ -86,7 +86,7 @@
 ### Some words about me
 
 <p>
-    <🎯 />  I'm currently full-time dive into the blockchain & decentralized world, these possibilities seem absolutely incredible! 🤩
+    <🎯 />  I'm currently building a trading bot using EVM (Solidity), Hardhat (Typescript) and a bit of data-analysis using Python.
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
@@ -99,9 +99,9 @@
 
 ```json
 {
-  "Frontend": ["React", "Gastby", "Svelte", "Tailwind", "React-native@alpha"],
-  "Backend": ["Typescript", "Node", "express", "Nest.js", "Mongo", "Rust@alpha"],
-  "Blockchain": ["Solidity", "web3", "Truffle", "ipfs@alpha"]
+  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwind", "react-native@alpha"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "mongodb", "sql@alpha", "rust@alpha"],
+  "blockchain": ["solidity", "rust:elrond", "web3|ethers.js", "truffle|hardhat", "ipfs"],
 }
 ```
 
