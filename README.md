@@ -86,7 +86,7 @@
 ### Some words about me
 
 <p>
-    <🎯 />  I'm currently building a trading bot using EVM (Solidity), Hardhat (Typescript) and a bit of data-analysis using Python.
+    <🎯 />  I'm currently building trading bots using EVM (Solidity), Hardhat (Typescript) and a bit of data-analysis using Python.
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
