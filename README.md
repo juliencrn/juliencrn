@@ -106,7 +106,7 @@
 ```
 
 
-#### Contact me on [Keybase](https://keybase.io/juliencrn) or [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷  🇬🇧  🇪🇸 .
+#### Contact me on [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷  🇬🇧  🇪🇸 .
 
 <!-- <h3>
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
