@@ -90,7 +90,7 @@
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
     <br>
-    <🌱 /> I'm also learning Rust and following the Rust-Typescript flirt (Deno, wasm, next-gen. tools).
+    <🌱 /> I'm also learning Rust and following the Rust-Typescript flirt (Deno, wasm, next-gen. tools, tauri).
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like mountain bike or calisthenics.
 </p>
@@ -101,7 +101,7 @@
 {
   "frontend": ["react", "gatsby|next", "svelte", "mui|tailwind", "react-native@alpha"],
   "backend": ["typescript", "nodejs", "express|nest.js", "mongodb", "sql@alpha", "rust@alpha"],
-  "blockchain": ["solidity", "rust:elrond", "web3|ethers.js", "truffle|hardhat", "ipfs"],
+  "blockchain": ["solidity", "rust:elrond", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor", "rust:substrate|ink!"],
 }
 ```
 
