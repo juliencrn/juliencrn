@@ -99,9 +99,9 @@
 
 ```json
 {
-  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwind", "react-native@alpha"],
-  "backend": ["typescript", "nodejs", "express|nest.js", "mongodb", "sql@alpha", "rust@alpha"],
-  "blockchain": ["solidity", "rust:elrond", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor", "rust:substrate|ink!"],
+  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss", "react-native@alpha"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql@alpha", "rust@alpha"],
+  "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:elrond", "rust:solana|anchor"],
 }
 ```
 
