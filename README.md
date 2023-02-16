@@ -86,22 +86,24 @@
 ### Some words about me
 
 <p>
-    <🎯 /> I'm currently building substrate based Blockchain the day and data-driven trading bots using EVM, Hardhat and Python the night.
+ <🎯 /> I'm currently building <a href="https://napcat.io">Napcat.io</a>, we basically convert Tweets into trading signals.
     <br>
-    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript developer (MERN). Last <a href="http://chefclub.tv">@Chefclub</a>.
+    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
-    <🌱 /> I'm also learning Rust and following the Rust-Typescript flirt (Deno, wasm, next-gen. tools, tauri).
+    <🌱 /> I'm also slowly learning Rust and data-science.
     <br>
-    <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like mountain bike or calisthenics.
+    <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like cycling or calisthenics.
 </p>
 
 ### Some technologies I like working with
 
 ```json
 {
-  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss", "react-native@alpha"],
+  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss"],
   "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql@alpha", "rust@alpha"],
   "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:elrond", "rust:solana|anchor"],
+  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp", "terraform@alpha"],
+  "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
 }
 ```
 
