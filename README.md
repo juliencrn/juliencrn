@@ -86,11 +86,11 @@
 ### Some words about me
 
 <p>
- <🎯 /> I'm currently building <a href="https://napcat.io">Napcat.io</a>, we basically convert Tweets into trading signals.
+ <🎯 /> I'm currently building a web3 app, we basically convert Tweets into trading signals.
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
-    <🌱 /> I'm also slowly learning Rust and data-science.
+    <🌱 /> I'm also slowly learning Rust and data-science, but currently diving into functional ddd.
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like cycling or calisthenics.
 </p>
