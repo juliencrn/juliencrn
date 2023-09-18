@@ -86,13 +86,13 @@
 ### Some words about me
 
 <p>
- <🎯 /> I'm currently building a web3 app, we basically convert Tweets into trading signals.
+ <🎯 /> I'm currently looking for the next adventure.
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
-    <🌱 /> I'm also slowly learning Rust and data-science, but currently diving into functional ddd.
+    <🌱 /> I'm also playing with some topics like Rust, data-science, DDD and functional programming.
     <br>
-    <🍺 /> Beside programming, I am interested in finance, especially in crypto and enjoy to play sports like cycling or calisthenics.
+    <🍺 /> Beside programming, I am interested in finance, especially in crypto and do hydrid training (Weight lifting, Running, Cycling).
 </p>
 
 ### Some technologies I like working with
@@ -101,8 +101,8 @@
 {
   "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss"],
   "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql@alpha", "rust@alpha"],
-  "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:elrond", "rust:solana|anchor"],
-  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp", "terraform@alpha"],
+  "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
+  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
   "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
 }
 ```
