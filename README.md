@@ -86,7 +86,7 @@
 ### Some words about me
 
 <p>
- <🎯 /> I'm currently looking for the next adventure.
+    <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Anthm</a>.
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
     <br>
@@ -100,22 +100,12 @@
 ```json
 {
   "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss"],
-  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql@alpha", "rust@alpha"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql", "rust@alpha"],
   "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
   "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
   "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
 }
 ```
-
-
-#### Contact me on [Telegram](https://t.me/juliencrn), we can chat in 🇫🇷  🇬🇧  🇪🇸 .
-
-<!-- <h3>
-  📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
-  <br> 
-  <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
-  <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
-</h3> -->
 
 ### ― See ya! 👋
 
