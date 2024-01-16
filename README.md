@@ -86,9 +86,9 @@
 ### Some words about me
 
 <p>
-    <🎯 /> I'm currently working for <a href="https://github.com/Anthm-FR">@Anthm</a>.
+    <🎯 /> I'm currently working on <a href="https://github.com/juliencrn/usehooks-ts">usehooks-ts</a> and looking for the next adventure.
     <br>
-    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>).
+    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>, <a href="https://github.com/Anthm-FR">@Anthm</a>).
     <br>
     <🌱 /> I'm also playing with some topics like Rust, data-science, DDD and functional programming.
     <br>
@@ -99,8 +99,8 @@
 
 ```json
 {
-  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwindcss"],
-  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb", "sql", "rust@alpha"],
+  "frontend": ["typescript", "react", "next.js", "svelte", "css|tailwindcss|mui", "storybook"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb|postgres|prisma", "rust@alpha"],
   "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
   "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
   "data@alpha": ["python", "jupyter", "pandas", "numpy", "matplotlib"]
